@@ -3,9 +3,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/montinisebastian/Repoint-apks/main/Mantenimiento/download/mantenimiento_repoint.apk",
     "minRequiredVersion": "0.2.0",
     "changelog": [
-    "Sistema de autenticación con roles",
-    "Gestión de mantenimiento de máquinas",
-    "Registro de roturas",
-    "Interfaz adaptativa (modo claro/oscuro)"
+    "Chequeo de actualizaciones",
+    "Se agrega Caso de Uso Consultar Estado Maquina"
   ]
 }
