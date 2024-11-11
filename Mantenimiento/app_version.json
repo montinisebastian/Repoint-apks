@@ -1,6 +1,6 @@
 {
-    "version": "0.3.0",
-    "downloadUrl": "/montinisebastian/Repoint-apks/main/Mantenimiento/download/leroma.apk",
+    "version": "0.3.1",
+    "downloadUrl": "/montinisebastian/Repoint-apks/main/Mantenimiento/download/mantenimiento_repoint.apk",
     "minRequiredVersion": "0.2.0",
     "changelog": [
     "Sistema de autenticación con roles",
